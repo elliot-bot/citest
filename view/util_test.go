@@ -3,7 +3,7 @@ package view
 import (
 	"testing"
 
-	"citest/view/util"
+	"github.com/citest/view/util"
 )
 
 func TestFindSubStr(t *testing.T) {
