@@ -58,6 +58,7 @@ func TestIsAbleToLast(t *testing.T) {
 	}
 }
 
+//internal util func
 func IntSliceEqualBCE(a, b []int) bool {
 	if len(a) != len(b) {
 		return false
